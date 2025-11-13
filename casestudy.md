@@ -1,6 +1,8 @@
 # Development of the Internet (ARPANET to WWW) 
 ##### links
-https://nsarchive.gwu.edu/document/22835-document-01-defense-advanced-research-projects?utm_source
+ARPANET- https://nsarchive.gwu.edu/document/22835-document-01-defense-advanced-research-projects?utm_source
+TCP/IP- https://www.invent.org/inductees/vinton-g-cerf?utm_source
+Timeline- https://www.darpa.mil/news/features/arpanet?utm_source
 
 ### Introduction 
 
