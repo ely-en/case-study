@@ -6,9 +6,16 @@ This discussion will examine the development of the internet from Arpanet to the
 
 ### Historical development 
 The history of the Internet is marked by decades of innovation and techoligical advancement. It's evolution can be traced back through several key stages, one of the earliest stages was the military networks in the 1960s to the creation of the World Wide Web in the 1990s.
+
 #### Key developments 
 ##### 1960s - The Concept of Computer Networking 
-During the Cold War era, the U.S Department of defense found a way to create a communication system tha tcould suruvive attacks and network failures. 
+During the Cold War era, the U.S Department of defense found a way to create a communication system tha tcould suruvive attacks and network failures. J.C.R. Licklider, a computer scientist was the first to propose an idea of a "Galatic Network", this is so computers could share data freely.
+##### 1969- The ARPANET was launched 
+The ARPANET was the first operational packet-switiching network and laid the foundation of what we know as the internet today.
+October 29,1969 was when the first ever message was ever sent and it was the word "login" between UCLA and standford Research Institute, although  the system crashed after "LO" this one word marked the birth of the internet.
+##### 1971- The email was created 
+Ray Tomlinson, a computer engineer developed the first electronic mail, now known as the "Email", the email is one of the most effective use of communication today, used all over the world. Ray  Tomlinson introduced the "@" symbol to seperate the user's name from the computers host allowing people to create email addresses. 
+##### 
 
 
 
