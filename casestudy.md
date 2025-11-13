@@ -1,21 +1,26 @@
 # Development of the Internet (ARPANET to WWW)
 ### Introduction 
-The Internet stands as one of the most remarkable and outstanding evolutions  in the moderna society. Today, the internet is being used by approximately 67.9% of the global population connecting people, business, and communities alla round the world. It's origins trace back to thelate 1960s when the Arpanet was created, a U.S. defense research network designed to enable secure and reliable data sharing between multiple computers at once. Over time, the Arpanet expanded into a global network, laying the groundwork for the internet and, later the WWW ( World Wibe Web).
-The internet has reshaped society, revolutionizing how people communicate, learn and interact with people all over the world, something that people couldn't even dream of back in the 1900s. The internet has also redefined the business world, giving people acces to the e-commerce, digital marketing and global online enterprises that in todays economies drive people to start up new business. The internet has also allowed a societal change as people can now facetime, using built in cameras all over the world and can also use phone service that allows one person from one country to make a phone call to another person in another country. Networking also allows workplaces to do online meetings without having to meet up in a specific place.
+The Internet stands as one of the most remarkable and outstanding evolutions in the modern society. Today, the internet is being used by approximately 67.9% of the global population connecting people, business, and communities all around the world. It's origins trace back to the late 1960s when the Arpanet was created, a U.S. defense research network designed to enable secure and reliable data sharing between multiple computers at once. Over time, the Arpanet expanded into a global network, laying the groundwork for the internet and, later the WWW ( World Wide Web).
+The internet has reshaped society, revolutionizing how people communicate, learn and interact with people all over the world, something that people couldn't even dream of back in the 1900s. The internet has also redefined the business world, giving people access to the e-commerce, digital marketing and global online enterprises that in todays economies drive people to start up new business. The internet has also allowed a societal change as people can now facetime, using built in cameras all over the world and can also use phone service that allows one person from one country to make a phone call to another person in another country. Networking also allows workplaces to do online meetings without having to meet up in a specific place.
 This discussion will examine the development of the internet from Arpanet to the world wide web, it will focus on it's evolution and impacts that it now has in the modern era. 
 
-### Historical development 
-The history of the Internet is marked by decades of innovation and techoligical advancement. It's evolution can be traced back through several key stages, one of the earliest stages was the military networks in the 1960s to the creation of the World Wide Web in the 1990s.
+### Historical development
+The Internet is marked by countless decades of innovation and creativity through technological advancement the Internet was created. The evolution can be traced back to the early 1960s when it was in the stage if being a military used network then to the now World Wide web. 
 
-#### Key developments 
-##### 1960s - The Concept of Computer Networking 
-During the Cold War era, the U.S Department of defense found a way to create a communication system tha tcould suruvive attacks and network failures. J.C.R. Licklider, a computer scientist was the first to propose an idea of a "Galatic Network", this is so computers could share data freely.
-##### 1969- The ARPANET was launched 
-The ARPANET was the first operational packet-switiching network and laid the foundation of what we know as the internet today.
-October 29,1969 was when the first ever message was ever sent and it was the word "login" between UCLA and standford Research Institute, although  the system crashed after "LO" this one word marked the birth of the internet.
-##### 1971- The email was created 
-Ray Tomlinson, a computer engineer developed the first electronic mail, now known as the "Email", the email is one of the most effective use of communication today, used all over the world. Ray  Tomlinson introduced the "@" symbol to seperate the user's name from the computers host allowing people to create email addresses. 
-##### 
+#### Key Developments 
+
+##### 1960s- Concept of computing networking
+During the cold war the U.S, Department of defence, found a way to way to survive system and network failures. A computer scientist by the name of Licklider proposed an idea called the "Galactic network", this idea was so that computers could share data to each other. 
+
+##### 1969- launch of the ARPANET 
+The ARPANET was the first ever operational packet-switching network in which through decades of innovation is now known as the "Internet". 
+On October 29th 1969, a message was sent between UCLA and Stand Ford Research Institute and that message was "Login". This marked the birth of the Internet. 
+
+##### 1971- creation of the Email
+Ray Tomlinson, a computer engineer, developed the electronical mail, now known as "Email", this email is now one of the most used forms of communication to ever exist. To do this Ray Tomlinson developed the "@" symbol, this symbol separated the user's name from the computers host allowing people to create email addresses. 
+
+##### 1973- TCP/IP
+Researcher Vinton Cerf and his partner Robert Kahn created the Transmission Control Protocol and Internet Protocol, this one invention is what allows multiple different computers to connect to each other by giving them separated IP addresses.   
 
 
 
