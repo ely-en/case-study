@@ -22,5 +22,14 @@ Ray Tomlinson, a computer engineer, developed the electronical mail, now known a
 ##### 1973- TCP/IP
 Researcher Vinton Cerf and his partner Robert Kahn created the Transmission Control Protocol and Internet Protocol, this one invention is what allows multiple different computers to connect to each other by giving them separated IP addresses.   
 
+##### 1983- The internet 
+January 1st, 1983, ARPANET officially adopted the TCP/IP into it's standard communication protocol, this one protocol is what people call the "Official birth of the internet". Paul Mockapetris invented DNS the same year which allowed user's to read names of websites like "wwww.example.com" 
+
+##### 1989-1990- World Wide Web
+Tim Berners-Lee invented the World Wide Web (WWW) using three main elements 
+(1)-HTML-Hypertext Markup Language 
+(2)-HTTP-Hypertext Transfer Protocol
+(3)-URL-Uniform Resource Location 
+This is when Websites were officially created and in 1991 the first website went live.
 
 
