@@ -6,3 +6,5 @@ This discussion will examine the development of the internet from Arpanet to the
 
 ### Historical development 
 The history of the Internet is marked by decades of innovation and techoligical advancement. It's evolution can be traced back through several key stages, one of the earliest stages was the military networks in the 1960s to the creation of the World Wide Web in the 1990s.
+###### Key developments 
+
