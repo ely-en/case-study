@@ -23,7 +23,7 @@ The ARPANET was the first ever operational packet-switching network in which thr
 
 ##### 1971- creation of the Email 
 
-Ray Tomlinson, a computer engineer, developed the electronical mail, now known as "Email", this email is now one of the most used forms of communication to ever exist. To do this Ray Tomlinson developed the "@" symbol, this symbol separated the user's name from the computers host allowing people to create email addresses.  
+Ray Tomlinson, a computer engineer, developed the electronical mail now known as "Email", this email is now one of the most used forms of communication to ever exist. To do this Ray Tomlinson developed the "@" symbol, this symbol separated the user's name from the computers host allowing people to create email addresses.  
 
 ##### 1973- TCP/IP 
 
