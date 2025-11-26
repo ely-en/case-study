@@ -1,7 +1,13 @@
+# 🌐 Case Study: Development of the Internet
+### ARPANET to World Wide Web | Group 19
 
- # Case study grop 19 
-##### Development of the Internet (ARPANET to WWW)
-##### Word Count: 3000-3500 words (excluding references)
+## 📋 Project Overview
+
+An in-depth exploration of the Internet's evolution from ARPANET to the World Wide Web, looking at both business and societal perspectives.
+
+
+
+**Word Count:** 3000-3500 words *(excluding references)*
 ##### Business and societal View points 
 ##### Submission Details:
 ##### Due Date: Friday, 28th November at 17:00
