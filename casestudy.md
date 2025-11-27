@@ -17,38 +17,44 @@ The Internet stands as one of the most remarkable and outstanding evolutions in 
 
 Throughout the 1970s and 1980s ARPANET continued to grow which allowed more universities to connect into the project, this expansion created a higher quality digital environment where information could move freely. The developments of TCP/IP in 1983 unified different networks into one interconnected system, what we recognise as the modern internet. The next major milestone was when Tim Berners invented the WWW (World Wide Web), the World Wide Web was something anybody could use for the likes of entertainment, social interaction, to use hyperlinks and to allow business to grow. The World Wide Web became extremely popular now decades later it has become the most used invention in history as colleges, school, hospitals, and business all use the internet today to teach or to promote products online. 
 
-## Historical development 
-ARPANET, the first ever operational packet switching network designed in the late 1960s to enable communication between research insitutions, the APRANET introduced revolutionary methods for data transmissions that reshaped how the future of networking worked. October 29th, is when the first ever message was sent and this has been marked as the "birth of the internet". From the production of the ARPANET this inspired decades of innovation which led to such developments like protocols, network expansions and eventually the World Wide Web.
+## historical development
+The development of the internet was through decades of innovation shaped by ideas, cold war and influential work of computer scientists. The researchers wanted to build a communication system that wouldn't fail or get disrupted and to allow other computers to share data with each other along long distances. Key figures such as J.C.R Licklider whose vision of an interconnected global network inspired many of the developments that followed, his work inspired many others to follow after him which layed the foundation of the future where computers can communicate without issue.
 
-### Key Developments 
+Other key figures such as Leonard Kleinrock, Ray Tomlinson, Vint Cerf and many more all played major roles in the major technological breakthroughs. Their inventions have become few of the most used on the internet today, such as, TCP/IP email and domain names which allowed the Internet to grow from a small, military academic communication device to a world wide technological device in which billions of users can access.
 
-#### 1960s- Concept of computing networking 
+The following timeline highlights the most significant milestones which created the internet in this historical development, each of these major events played a huge part in how the World Wide Web was created to what we know of today.
 
-During the cold war, the U.S, Department of defence, found a way to way to survive system and network failures. A computer scientist by the name of Licklider proposed an idea called the "Galactic network", this idea was so that computers could share data to each other.  
 
-#### 1969- launch of the ARPANET 
 
-The ARPANET was the first ever operational packet-switching network in which through decades of innovation is now known as the "Internet". On October 29th, 1969, a message was sent between UCLA and Stand Ford Research Institute and that message was "Login". This marked the birth of the Internet.  
+#### Major Milstones: From ARPANET to the World Wide Web
+###### 1. Early 1960s- The vision for computing networking 
 
-#### 1971- creation of the Email 
+We begin with the one who started it all, J.C.R Licklider, who had a vision of a world where computers could seamlessly connected to one another, though only theoretical and not sure if could ever be possible, the idea shaped ARPA's research priorities and inspired a future on digital communication. His vision marked the very beginning of the decades of innovation that came.
 
-Ray Tomlinson, a computer engineer, developed the electronical mail now known as "Email", this email is now one of the most used forms of communication to ever exist. To do this Ray Tomlinson developed the "@" symbol, this symbol separated the user's name from the computers host allowing people to create email addresses.  
+###### 2.1969-  The first ARPANET Connection
 
-#### 1973- TCP/IP 
+The creation of ARPANET began in 1969 and it was the first ever operational packet switching network. Developed during the Cold War to make sure that the communications could not fail or get disrupted. This invention was by Leonard Kleinrock and its feature was to send messages in small chunks though multiple routes. That same year, the first ever message was recorded and it was between UCLA and Stanford research Institute .
 
-Researcher Vinton Cerf and his partner Robert Kahn created the Transmission Control Protocol and Internet Protocol; this one invention is what allows multiple different computers to connect to each other by giving them separated IP addresses.  
+###### 3. 1971- the invention of Email
 
-#### 1983- The internet 
+1971 was the year of the email when Ray Tomlinson invented the first ever electronic mail system which became one of the earliest and most influential uses of the ARPANET. He also introduced the @ symbol, its use is so that it can separate the user from the host and is currently used in every single email address that allows people to send emails to each other online.
 
-January 1st, 1983, ARPANET officially adopted the TCP/IP into its standard communication protocol, this one protocol is what people call the "Official birth of the internet". Paul Mockapetris invented DNS the same year which allowed users to read names of websites like "wwww.example.com"  
+###### 4. 1973-1978- Development of TCP/IP
 
-#### 1989-1990- World Wide Web 
+As new networks formed around the world communication between them was difficult and researchers Vint Cerf and Robert Kahn solved this by creating TCP/IP protocols, which allowed different systems to communicate more smoothly and efficiently. After official testing and procedures ARPANET officially swapped to TCP/IP on January 1st 1983, this moment is what people call the "official birth of the Internet".
 
-Tim Berners-Lee invented the World Wide Web (WWW) using three main elements 
-(1)-HTML-Hypertext Markup Language 
-(2)-HTTP-Hypertext Transfer Protocol
-(3)-URL-Uniform Resource Location 
-This is when Websites were officially created and in 1991 the first website went live.
+###### 5. 1983- Introduction of the Domain name system (DNS)
+
+Paul Mockapetris saw that with the growing number of hosts that remembering numerical IP address was almost impossible so to solve this he created the DNS in 1983 to assign readable names to websites making it way easier and smoother to find what your looking for. The DNS created a structured and user-friendly addressing system.
+
+###### 6. 1981-1991- Creation of the World Wide Web
+Between the years 1981 and 1991 Tim Berners-Lee invented the World Wide Web at CERN, here he developed three essential technologies. 
+
+HTML (Hypertext Markup Language)
+HTTP (Hypertext Transfer Protocol)
+URL (Uniform Resource Locator)
+
+These tools introduced what makes the Internet feel really smooth and a great essential element, clickable links, webpages, and browsers, these inventions had transformed the Internet into an accessible multimedia information system. In 1991 the first website went live and the Internet entered a new era where global communication and information became apart of our every day life in the history of the ARPANET to the World Wide Web.
 
 
 
