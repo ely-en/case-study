@@ -17,6 +17,8 @@ The Internet stands as one of the most remarkable and outstanding evolutions in 
 
 Throughout the 1970s and 1980s ARPANET continued to grow which allowed more universities to connect into the project, this expansion created a higher quality digital environment where information could move freely. The developments of TCP/IP in 1983 unified different networks into one interconnected system, what we recognise as the modern internet. The next major milestone was when Tim Berners invented the WWW (World Wide Web), the World Wide Web was something anybody could use for the likes of entertainment, social interaction, to use hyperlinks and to allow business to grow. The World Wide Web became extremely popular now decades later it has become the most used invention in history as colleges, school, hospitals, and business all use the internet today to teach or to promote products online. 
 
+---
+
 ## Historical Development
 The development of the internet was through decades of innovation shaped by ideas, cold war and influential work of computer scientists. The researchers wanted to build a communication system that wouldn't fail or get disrupted and to allow other computers to share data with each other along long distances. Key figures such as J.C.R Licklider whose vision of an interconnected global network inspired many of the developments that followed, his work inspired many others to follow after him which layed the foundation of the future where computers can communicate without issue.
 
@@ -57,6 +59,8 @@ URL (Uniform Resource Locator)
 These tools introduced what makes the Internet feel really smooth and a great essential element, clickable links, webpages, and browsers, these inventions had transformed the Internet into an accessible multimedia information system. In 1991 the first website went live and the Internet entered a new era where global communication and information became apart of our every day life in the history of the ARPANET to the World Wide Web.
 
 
+---
+
 
 ## Business Viewpoint Analysis ##
 
@@ -64,7 +68,6 @@ These tools introduced what makes the Internet feel really smooth and a great es
 
 From a business viewpoint, computing developments were evaluated on how they revolutionized the operation of business. The evolution from ARPANET to the World Wide created an entirety of new business models, it transformed how businesses operate, creating new opportunities for ecommerce, communication, and global market access. 
 
----
 
 
 
@@ -116,14 +119,13 @@ Web based systems allowed business to add real time inventory tracking, automate
 - Companys like FexEx and UPS built order tracking systems which users could access from the web, handling thousands of daily queries.
 
 
-
-
+#### **Summery** ####
 
 Overall the World Wide Web changed how businesses operate by creating new business models, allowing businesses to advertise and sell online to a global market, and making communications faster while reducing costs.
 
 
 
-
+---
 
 
 ## Societal Viewpoint Analysis
@@ -153,6 +155,10 @@ The World Wide Web has also raised concerns about personal privacy and security,
 Additionally, identity theft has become a major issue, studies show that 1 in 4 people globally have experienced some sort of identity fraud online.
 Data breaches have become an issue, as hackers have been targeting financial institutions, to target their user base through scam calls etc, putting peoples real world money and assets on the line, and making it harder to distinguish between real company representatives and scammers, which wasn't an issue in the past as online banks didn't exist. 
 
+
+#### **Summery** ####
+
+Overall, the World Wide Web has drastically improved access to information, communication and education, but also has its down sides and challenges such as minsinformation, privacy risks such as identity fraud and data breaches.
 
 
 
