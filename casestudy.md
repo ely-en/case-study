@@ -61,9 +61,11 @@ These tools introduced what makes the Internet feel really smooth and a great es
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
-From a business viewpoint, computing developments are evaluated on how they change our day to day life operations. The evolution from ARPANET to the World Wide created an entirety of new business models, it transformed how businesses operate, creating new opportunities for ecommerce, communication, and global market access.
-
+From a business viewpoint, computing developments were evaluated on how they revolutionized the operation of business. The evolution from ARPANET to the World Wide created an entirety of new business models, it transformed how businesses operate, creating new opportunities for ecommerce, communication, and global market access. 
 ---
+
+
+
 
 ### Transformation from a Business POV
 
@@ -80,6 +82,7 @@ The WWW allowed businesses to start selling products online, making them availab
 
 
 **Digital Marketing and Advertising**
+
 The WWW created am entirely new advertising model, as traditional advertising relied on television, radio, news papers and billboards which had a limited target audience as well as scalability. Advertising on the web introduced real time analytics as well as specific audience targeting which allowed brands to target based on age, interests, country and more
 
 
@@ -112,6 +115,8 @@ Web based systems allowed business to add real time inventory tracking, automate
 
 
 
+
+
 Overall the World Wide Web changed how businesses operate by creating new business models, allowing businesses to advertise and sell online to a global market, and making communications faster while reducing costs.
 
 
@@ -123,6 +128,35 @@ Overall the World Wide Web changed how businesses operate by creating new busine
 
 
 ### Defining the Societal Viewpoint
+
+From a societal viewpoint, compouting developments were evaluated on how they transform quality of life, education, social interactions and more. The evolution from ARPANET to the World Wide Web transformed human communication and information access.
+
+
+#### **Access to Information**
+
+The World Wide Web changed the accessibility of information from something that was controlled by libraries and universities to something anyone with an internet connection could access. For example, Wikipedia now has over 7 million English articles, making it the worlds biggest encyclopedia with content in over 300 languages.
+
+Educational websites such as [Coursera](https://www.coursera.org/) or even [Hardvard's Free Courses](https://pll.harvard.edu/catalog/free) and let millions of people learn for free, which is something that was impossible before. Although this is great it has also created its own problems to, such as fake news and misinformation being spread easily online, making it harder for people to tell the difference between what is true and what's not.
+
+#### **Communications**
+
+The World Wide Web transformed the way we communicate with each other, switching physical letters, telephone boots etc to emails, communications apps over the internet and more. Furthermore, the WWW allowed people to connect with each other regardless of language barriers, which otherwise wouldve been impossible, this also led people from other countries and cultural differences to network and work together which further progressed cultural differences amongst people worldwide.
+
+#### **Education Changes**
+During COVID 19 pandemic, 77% of U.S public schools and 73% of U.S private schools transitioned to online classes, which shows how web-based education. The World Wide Web also played a huge part during the COVID 19 epidemic. The worldwide access to internet allowed for easy communication throughout the entire world, allowing students and teachers to connect from anywhere within the world whilst also minimizing the risk of spreading the COVID 19 disease. The internet allowed for a smooth continuation of education that otherwise would've been impossible to do.
+
+
+#### **Privacy and Security**
+The World Wide Web has also raised concerns about personal privacy and security, as surveillance has increased, with organisations being able to track user activity, location, behaviours and more through web-based data collection.
+Additionally, identity theft has become a major issue, studies show that 1 in 4 people globally have experienced some sort of identity fraud online.
+Data breaches have become an issue, as hackers have been targeting financial institutions, to target their user base through scam calls etc, putting peoples real world money and assets on the line, and making it harder to distinguish between real company representatives and scammers, which wasn't an issue in the past as online banks didn't exist. 
+
+
+
+
+
+
+
 
 
 
