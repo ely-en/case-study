@@ -58,10 +58,12 @@ These tools introduced what makes the Internet feel really smooth and a great es
 
 
 
-## Business Viewpoint Analysis
+## Business Viewpoint Analysis ##
 
-### Defining the Business Viewpoint
+### Defining the Business Viewpoint ###
+
 From a business viewpoint, computing developments were evaluated on how they revolutionized the operation of business. The evolution from ARPANET to the World Wide created an entirety of new business models, it transformed how businesses operate, creating new opportunities for ecommerce, communication, and global market access. 
+
 ---
 
 
