@@ -102,8 +102,17 @@ Before the World Wide Web it was price consuming for international business to c
 - Business meetings etc over WiFi removed the need for business trips saving comapnies a significant amount of time and money.
 
 
+##### Supply Chain Transformation
+Web based systems allowed business to add real time inventory tracking, automated ordering and real time manufacturing requests which completely transformed SCM (supply chain management) and reduced storage and production costs.
+
+**SCM Business Evidence:**
+- Walmart's web-based supply chain system lowered inventory costs by 10% while improving stock availability.
+- Amazon’s web-based inventory and automation system allowed same day and next day delivery.
+- Companys like FexEx and UPS built order tracking systems which users could access from the web, handling thousands of daily queries.
 
 
+
+Overall the World Wide Web changed how businesses operate by creating new business models, allowing businesses to advertise and sell online to a global market, and making communications faster while reducing costs.
 
 
 
