@@ -17,7 +17,7 @@ The Internet stands as one of the most remarkable and outstanding evolutions in 
 
 Throughout the 1970s and 1980s ARPANET continued to grow which allowed more universities to connect into the project, this expansion created a higher quality digital environment where information could move freely. The developments of TCP/IP in 1983 unified different networks into one interconnected system, what we recognise as the modern internet. The next major milestone was when Tim Berners invented the WWW (World Wide Web), the World Wide Web was something anybody could use for the likes of entertainment, social interaction, to use hyperlinks and to allow business to grow. The World Wide Web became extremely popular now decades later it has become the most used invention in history as colleges, school, hospitals, and business all use the internet today to teach or to promote products online. 
 
-## historical development
+## Historical Development
 The development of the internet was through decades of innovation shaped by ideas, cold war and influential work of computer scientists. The researchers wanted to build a communication system that wouldn't fail or get disrupted and to allow other computers to share data with each other along long distances. Key figures such as J.C.R Licklider whose vision of an interconnected global network inspired many of the developments that followed, his work inspired many others to follow after him which layed the foundation of the future where computers can communicate without issue.
 
 Other key figures such as Leonard Kleinrock, Ray Tomlinson, Vint Cerf and many more all played major roles in the major technological breakthroughs. Their inventions have become few of the most used on the internet today, such as, TCP/IP email and domain names which allowed the Internet to grow from a small, military academic communication device to a world wide technological device in which billions of users can access.
@@ -59,14 +59,63 @@ These tools introduced what makes the Internet feel really smooth and a great es
 
 
 ## Business Viewpoint Analysis
-ely
 
 ### Defining the Business Viewpoint
-def
+From a business viewpoint, computing developments are evaluated on how they change our day to day life operations. The evolution from ARPANET to the World Wide created an entirety of new business models, it transformed how businesses operate, creating new opportunities for ecommerce, communication, and global market access.
+
+---
+
+### Transformation from a Business POV
+
+#### **Creation of New Business Models**
+
+##### E-Commerce
+
+The WWW allowed businesses to start selling products online, making them available to everything, before the WWW, commerce required physical stores, printed catalogs, or telephone ordering systems. As HTML and HTTP was introduced, it allowed brands to create stores online accessibl to anyone with internet. 
+
+**E-Commerce Business Evidence:**
+- Amazon - founded in 1994 as an online bookstore which grew from a garage startup to a $2.45 trillion comapny.
+- eBay - launched in 1995, as a peer to peer marketplace allowing users to buy and sell items between eachother online, making over $10 billion in 2025.
+- Small businesses could now access global markets for with a minimal investment as domain and hosting cost under $100 annually comparing to traditional retail stores costing thousands.
+
+
+##### Digital Marketing and Advertising
+The WWW created am entirely new advertising model, as traditional advertising relied on television, radio, news papers and billboards which had a limited target audience as well as scalability. Advertising on the web introduced real time analytics as well as specific audience targeting which allowed brands to target based on age, interests, country and more
+
+
+**Marketing Business Evidence:**
+- Google Ads revenue reached $296.15 billion in 2025, built on web based search advertising.
+- Metrics such as click through rates, conversion tracking, and A/B testing gave businesses measurable ROI which was impossible with traditional advertising.
+- Facebook Ads allows small businesses to start advertising campaigns with budgets as low as $5 per day.
+
+---
+
+#### **Operational Efficiency Gains**
+
+##### Communication Cost Reduction
+
+Before the World Wide Web it was price consuming for international business to communicate as it required expensive phone calls, fax machines, or postal mail. Commutation tools such as email and web-based commutations reduced these costs to nearly zero, while increasing commutation speeds. 
+
+**Business Evidence:**
+- International phone call costs went down from 3 -5$ per minute in 1990s to basically zero via VoIP (Voice over Internet Protocol) and other web services.
+- File sharing changed from overnight shipping which cost anywhere from 25-50 EUR per package to instant web-based file transfer.
+- Business meetings etc over WiFi removed the need for business trips saving comapnies a significant amount of time and money.
+
+
+
+
+
+
+
+
 
 
 ## Societal Viewpoint Analysis
-ely
+
+
+### Defining the Societal Viewpoint
+
+
 
 ## Ethical Reflection
 Reviewing our World Wide Web project, it is clear that we explained how the web's technology works, yet there were many ethical aspects we could have explored better. Thinking about ethics matters because the web is not just a technical system which has a direct impact on privacy and accessibility, and digital well-being and information's spread. In hindsight, our project could have shown more responsibility and critical awareness and ethical engagement in many areas.
