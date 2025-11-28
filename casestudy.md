@@ -110,7 +110,7 @@ Before the World Wide Web it was price consuming for international business to c
 - Business meetings etc over WiFi removed the need for business trips saving comapnies a significant amount of time and money.
 
 
-##### Supply Chain Transformation
+#### Supply Chain Transformation
 Web based systems allowed business to add real time inventory tracking, automated ordering and real time manufacturing requests which completely transformed SCM (supply chain management) and reduced storage and production costs.
 
 **SCM Business Evidence:**
@@ -161,10 +161,7 @@ Data breaches have become an issue, as hackers have been targeting financial ins
 Overall, the World Wide Web has drastically improved access to information, communication and education, but also has its down sides and challenges such as minsinformation, privacy risks such as identity fraud and data breaches.
 
 
-
-
-
-
+--- 
 
 
 
