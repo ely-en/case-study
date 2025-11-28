@@ -69,21 +69,21 @@ From a business viewpoint, computing developments are evaluated on how they chan
 
 #### **Creation of New Business Models**
 
-##### E-Commerce
+**E-Commerce:**
 
 The WWW allowed businesses to start selling products online, making them available to everything, before the WWW, commerce required physical stores, printed catalogs, or telephone ordering systems. As HTML and HTTP was introduced, it allowed brands to create stores online accessibl to anyone with internet. 
 
-**E-Commerce Business Evidence:**
+##### E-Commerce Business Evidence: #####
 - Amazon - founded in 1994 as an online bookstore which grew from a garage startup to a $2.45 trillion comapny.
 - eBay - launched in 1995, as a peer to peer marketplace allowing users to buy and sell items between eachother online, making over $10 billion in 2025.
 - Small businesses could now access global markets for with a minimal investment as domain and hosting cost under $100 annually comparing to traditional retail stores costing thousands.
 
 
-##### Digital Marketing and Advertising
+**Digital Marketing and Advertising**
 The WWW created am entirely new advertising model, as traditional advertising relied on television, radio, news papers and billboards which had a limited target audience as well as scalability. Advertising on the web introduced real time analytics as well as specific audience targeting which allowed brands to target based on age, interests, country and more
 
 
-**Marketing Business Evidence:**
+##### Marketing Business Evidence: #####
 - Google Ads revenue reached $296.15 billion in 2025, built on web based search advertising.
 - Metrics such as click through rates, conversion tracking, and A/B testing gave businesses measurable ROI which was impossible with traditional advertising.
 - Facebook Ads allows small businesses to start advertising campaigns with budgets as low as $5 per day.
